@@ -1,7 +1,10 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d00dacfc-1919-4f32-b9ae-e68e58be2cca/deploy-status)](https://app.netlify.com/sites/leptoscsr/deploys)
+
 <picture>
     <source srcset="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_Solid_White.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/leptos-rs/leptos/main/docs/logos/Leptos_logo_RGB.svg" alt="Leptos Logo">
 </picture>
+
 
 # Leptos Client-Side Rendered (CSR) App Starter Template
 
